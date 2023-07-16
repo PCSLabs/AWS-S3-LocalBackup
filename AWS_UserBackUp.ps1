@@ -9,8 +9,8 @@ $filepath = Get-ItemPropertyValue "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVe
 $DesktopFilePath = $filepath + "\Desktop"
 
 #AWS Variables
-$AWSAccessKey = "AKIATVGHNLSAFWSIYPKN"
-$AWSSecretKey = "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"
+$AWSAccessKey = "ENTER KEY HERE"
+$AWSSecretKey = "ENTER SECRET HERE"
 
 
 #Install AWS Modules
